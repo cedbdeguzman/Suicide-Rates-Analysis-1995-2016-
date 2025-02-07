@@ -67,7 +67,20 @@ Steps:
 See the notebook file for EDA process
 
 ## Overview of the Results
-
+![Image](https://github.com/user-attachments/assets/cae318e6-4558-4c3b-819c-1eb481d3efc7)
+![Image](https://github.com/user-attachments/assets/becf0c93-96a4-4a93-a838-b49643e599fd)
+![Image](https://github.com/user-attachments/assets/dc8d11a9-43ad-4b85-9607-6e59792b6f01)
+![Image](https://github.com/user-attachments/assets/da3ca55f-6f21-4a30-8814-d3642bf34442)
+![Image](https://github.com/user-attachments/assets/ddb2ca4c-38ff-477a-89df-21d0d31ac755)
+![Image](https://github.com/user-attachments/assets/eb297ae3-9d7e-4e4d-ba27-57cc8fde7434)
+![Image](https://github.com/user-attachments/assets/a498716a-9af7-4d5e-a310-d9546a8cc96c)
+![Image](https://github.com/user-attachments/assets/09195771-d0b9-4fd1-88dc-e0ace81a3ee8)
+![Image](https://github.com/user-attachments/assets/8e4164ae-9606-4c70-84b1-d30adfda2b14)
+![Image](https://github.com/user-attachments/assets/e0f14b1e-8cff-4863-8d7d-ce9ca5fd3803)
+![Image](https://github.com/user-attachments/assets/deba520b-0cc4-4561-90b2-0a9f0136b132)
+![Image](https://github.com/user-attachments/assets/ae14264c-dc7f-450a-9604-20727fcd6629)
+![Image](https://github.com/user-attachments/assets/d1eac195-1f88-40e2-9c98-9e1f194f34f9)
+![Image](https://github.com/user-attachments/assets/ad2030c0-3619-499b-a50f-f858d1c91708)
 
 
 ## Insights
