@@ -49,11 +49,11 @@ Notebook file for Data Cleaning is uploaded in the repository section.
 
 Steps: 
 
-1. Load the CSV file using pd.read_csv()
+1. Load the CSV file using pd.read_csv().
 2. Remove unecessary characters on column title and capitalize each word.
 3. Repeat step 2 for each category columns.
 4. Select necessary columns for analysis.
-5. Drop duplicate rows
+5. Drop duplicate rows.
 6. Detect outliers by graphing each numeric column using boxplot.
 7. If the graph is skewed distribution and has potential outliers, use inter quartile rule for removing outliers.
 8. If the graph is symmetric distribution, use standard deviation rule for removing outliers.
