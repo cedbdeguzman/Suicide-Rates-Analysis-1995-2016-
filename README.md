@@ -44,7 +44,7 @@ In this project, the Python Jupiter Notebook was used for all the Data Analysis 
   For each question, the necessary python syntax like group by, sorting, and other aggregation methods were used to come up with a table to make an inference. Matplotlib and Seaborn
   libraries were then used to graph the data.
 
-## Data_Cleaning_Process 
+## Data Cleaning Process 
 Notebook file for Data Cleaning is uploaded in the repository section. 
 
 Steps: 
